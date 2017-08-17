@@ -101,7 +101,11 @@ This application converts data from archived CSV files to json according tot he 
         objToWrite.person.weight.type = line.weight;
         objToWrite.person.height.type = line.height;
         objToWrite.salary = Number(line.salary);
-        
+       
+ 3.0 Problems. Issues. Wishes.
+     Did not introduce check if all the files have the same set of headers.
+     Did not introduce good command line arguments using. For example logging.
+     A lot of things could/should be improved.
         
         
         
