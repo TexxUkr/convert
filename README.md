@@ -106,9 +106,3 @@ This application converts data from archived CSV files to json according tot he 
      Did not introduce check if all the files have the same set of headers.
      Did not introduce good command line arguments using. For example logging.
      A lot of things could/should be improved.
-        
-        
-        
-        
-        
-
