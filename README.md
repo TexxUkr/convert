@@ -106,3 +106,5 @@ This application converts data from archived CSV files to json according tot he 
      Did not introduce check if all the files have the same set of headers.
      Did not introduce good command line arguments using. For example logging.
      A lot of things could/should be improved.
+     Needs to add tests. I did not find npm module that could check json file structure for a whole file, like https://jsonlint.com/
+     I found json validation for strings only. Could check if needs.
