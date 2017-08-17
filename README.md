@@ -8,7 +8,7 @@ This application converts data from archived CSV files to json according tot he 
 2. Usage
 
    2.1. Command Line.
-     node convert.js <archive_with_csv_files> <output_json_file> [nice={Y|N}]
+     node convert.js <archive_with_csv_files> <output_json_file> [nice=Y]
      where 
         archive_with_csv_files - is a filename of the file that contains csv files. Mandatory.
         output_json_file - is a filename of the output file with json data. Mandatory.
