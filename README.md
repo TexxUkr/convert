@@ -2,9 +2,8 @@
 This application converts data from archived CSV files to json according tot he template set
 
 1. Installation
-   is simple 
-   copy the repository
-   start npm install
+   1.1. copy the repository
+   1.2. start npm install
 
 2. Usage
 
